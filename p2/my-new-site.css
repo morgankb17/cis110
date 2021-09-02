@@ -1,0 +1,18 @@
+body {
+  background-color: white;
+  margin: 0 10%;
+  font-family: helvetica;
+}
+h1 {
+  text-align: center;
+  font-family: helvetica;
+  font-weight: normal;
+  color: black;
+  text-transform: uppercase;
+  border-bottom: 1px solid black;
+  margin-top: 30px;
+}
+h2 {
+  color: black;
+  font-size: 1em;
+}

@@ -1,0 +1,32 @@
+img {
+  width: 300px;
+  float: right;
+  border: thin solid;
+  padding: 0.5em;
+  margin: 0.5em;
+}
+p {
+  font-size: 20px;
+  border-bottom: thin solid;
+  padding-bottom: 4.2em;
+}
+.label {
+  font-size: 24px;
+  color: green;
+}
+.button1 {
+  background-color: #ff0000; /* Red */
+  color: white;
+}
+.button2 {
+  background-color: #ffff00; /* Yellow */
+  color: black;
+}
+.button3 {
+  background-color: #0029ff; /* Blue */
+  color: white;
+}
+.button4 {
+  background-color: #ff00ff; /* Magenta */
+  color: black;
+}
